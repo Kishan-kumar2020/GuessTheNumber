@@ -1,0 +1,21 @@
+body {
+    background-color: darkviolet;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 100px;
+}
+
+#id1, #btn {
+    font-size: xx-large;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#btn {
+    
+}
+
+#id2 {
+
+}
